@@ -11,4 +11,4 @@ project will focus on achieving a balance between performance and area utilizati
 for speed while minimizing the usage of resources. The processor will be verified through simulation, includ-
 ing functional simulation and timing simulation to ensure correct operation and timing requirements are met.
 
-
+![Screenshot 2023-03-26 123808](https://github.com/shreyasingh824/single-cycle-processor-using-VHDL/assets/112194327/564a3fe6-8e0b-49a4-ab46-a68bb4de8a4a)
