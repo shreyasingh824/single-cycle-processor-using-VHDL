@@ -12,4 +12,5 @@ for speed while minimizing the usage of resources. The processor will be verifie
 ing functional simulation and timing simulation to ensure correct operation and timing requirements are met.
 
 
-![single_cycle_mips](https://github.com/shreyasingh824/single-cycle-processor-using-VHDL/assets/112194327/de33bf3e-7334-4de2-8776-597c864d770e)
+![ss](https://github.com/shreyasingh824/single-cycle-processor-using-VHDL/assets/112194327/aa9ae644-d2e6-420f-bbc3-65413aa97e4b)
+
